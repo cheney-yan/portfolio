@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Cheney Yan
+Cheney Yan
 Web developer
 
 Show Contacts
